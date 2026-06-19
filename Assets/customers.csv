@@ -1,0 +1,101 @@
+customer_id,customer_name,gender,city,state,customer_segment
+1,Rahul Singh,Male,Vijayawada,Andhra Pradesh,Consumer
+2,Pooja Reddy,Male,Chennai,Tamil Nadu,Home Office
+3,Rahul Sharma,Male,Pune,Maharashtra,Consumer
+4,Kiran Mehta,Male,Bangalore,Karnataka,Home Office
+5,Pooja Iyer,Female,Bangalore,Karnataka,Consumer
+6,Neha Singh,Male,Kolkata,West Bengal,Consumer
+7,Salman Singh,Male,Pune,Maharashtra,Consumer
+8,Priya Reddy,Female,Delhi,Delhi,Consumer
+9,Salman Mehta,Female,Delhi,Delhi,Consumer
+10,Kiran Reddy,Female,Kolkata,West Bengal,Consumer
+11,Arjun Mehta,Female,Jaipur,Rajasthan,Home Office
+12,Pooja Reddy,Male,Bangalore,Karnataka,Home Office
+13,Arjun Reddy,Male,Bangalore,Karnataka,Consumer
+14,Arjun Nair,Female,Pune,Maharashtra,Consumer
+15,Salman Patel,Female,Delhi,Delhi,Home Office
+16,Neha Kumar,Male,Vijayawada,Andhra Pradesh,Consumer
+17,Ananya Singh,Male,Kolkata,West Bengal,Home Office
+18,Rahul Patel,Male,Delhi,Delhi,Corporate
+19,Arjun Reddy,Male,Pune,Maharashtra,Home Office
+20,Sneha Nair,Female,Delhi,Delhi,Home Office
+21,Amit Singh,Male,Kolkata,West Bengal,Consumer
+22,Kiran Singh,Female,Jaipur,Rajasthan,Home Office
+23,Salman Patel,Male,Pune,Maharashtra,Home Office
+24,Priya Sharma,Male,Kolkata,West Bengal,Consumer
+25,Vikram Verma,Male,Chennai,Tamil Nadu,Corporate
+26,Neha Nair,Female,Pune,Maharashtra,Home Office
+27,Vikram Reddy,Female,Hyderabad,Telangana,Home Office
+28,Priya Singh,Female,Delhi,Delhi,Consumer
+29,Rahul Singh,Male,Kolkata,West Bengal,Home Office
+30,Vikram Singh,Male,Vijayawada,Andhra Pradesh,Consumer
+31,Amit Iyer,Male,Delhi,Delhi,Home Office
+32,Rohit Sharma,Male,Delhi,Delhi,Corporate
+33,Sneha Sharma,Male,Mumbai,Maharashtra,Home Office
+34,Priya Nair,Male,Vijayawada,Andhra Pradesh,Home Office
+35,Amit Nair,Male,Chennai,Tamil Nadu,Corporate
+36,Neha Verma,Male,Jaipur,Rajasthan,Home Office
+37,Pooja Singh,Female,Bangalore,Karnataka,Home Office
+38,Rohit Iyer,Female,Delhi,Delhi,Consumer
+39,Sneha Reddy,Female,Bangalore,Karnataka,Consumer
+40,Kiran Patel,Male,Lucknow,Uttar Pradesh,Consumer
+41,Pooja Sharma,Male,Vijayawada,Andhra Pradesh,Consumer
+42,Salman Reddy,Male,Hyderabad,Telangana,Corporate
+43,Sneha Iyer,Male,Kolkata,West Bengal,Home Office
+44,Neha Nair,Male,Lucknow,Uttar Pradesh,Corporate
+45,Sneha Reddy,Male,Pune,Maharashtra,Home Office
+46,Salman Verma,Female,Pune,Maharashtra,Corporate
+47,Vikram Reddy,Male,Hyderabad,Telangana,Corporate
+48,Priya Patel,Male,Delhi,Delhi,Consumer
+49,Rohit Kumar,Female,Jaipur,Rajasthan,Consumer
+50,Rohit Patel,Male,Mumbai,Maharashtra,Corporate
+51,Priya Sharma,Male,Jaipur,Rajasthan,Consumer
+52,Amit Verma,Female,Bangalore,Karnataka,Corporate
+53,Ananya Sharma,Male,Bangalore,Karnataka,Corporate
+54,Ananya Singh,Female,Hyderabad,Telangana,Corporate
+55,Pooja Iyer,Female,Pune,Maharashtra,Consumer
+56,Arjun Patel,Male,Bangalore,Karnataka,Home Office
+57,Rahul Gupta,Male,Jaipur,Rajasthan,Consumer
+58,Rohit Iyer,Male,Lucknow,Uttar Pradesh,Consumer
+59,Priya Kumar,Male,Jaipur,Rajasthan,Home Office
+60,Vikram Patel,Female,Vijayawada,Andhra Pradesh,Consumer
+61,Sneha Mehta,Male,Lucknow,Uttar Pradesh,Home Office
+62,Ananya Mehta,Female,Vijayawada,Andhra Pradesh,Corporate
+63,Vikram Gupta,Male,Bangalore,Karnataka,Corporate
+64,Amit Singh,Female,Pune,Maharashtra,Corporate
+65,Rahul Nair,Male,Vijayawada,Andhra Pradesh,Consumer
+66,Sneha Iyer,Female,Jaipur,Rajasthan,Consumer
+67,Priya Patel,Female,Delhi,Delhi,Corporate
+68,Rohit Iyer,Female,Chennai,Tamil Nadu,Home Office
+69,Rahul Iyer,Female,Jaipur,Rajasthan,Home Office
+70,Amit Singh,Male,Vijayawada,Andhra Pradesh,Consumer
+71,Amit Singh,Female,Jaipur,Rajasthan,Home Office
+72,Pooja Gupta,Male,Bangalore,Karnataka,Home Office
+73,Kiran Nair,Female,Mumbai,Maharashtra,Consumer
+74,Vikram Verma,Female,Vijayawada,Andhra Pradesh,Consumer
+75,Salman Kumar,Female,Hyderabad,Telangana,Consumer
+76,Kiran Verma,Male,Kolkata,West Bengal,Consumer
+77,Pooja Kumar,Male,Vijayawada,Andhra Pradesh,Corporate
+78,Kiran Kumar,Female,Lucknow,Uttar Pradesh,Consumer
+79,Arjun Gupta,Male,Hyderabad,Telangana,Corporate
+80,Vikram Patel,Male,Bangalore,Karnataka,Corporate
+81,Ananya Mehta,Male,Jaipur,Rajasthan,Consumer
+82,Amit Verma,Male,Chennai,Tamil Nadu,Consumer
+83,Ananya Patel,Female,Delhi,Delhi,Consumer
+84,Ananya Sharma,Female,Vijayawada,Andhra Pradesh,Consumer
+85,Rohit Gupta,Female,Bangalore,Karnataka,Consumer
+86,Rahul Patel,Female,Bangalore,Karnataka,Corporate
+87,Priya Singh,Female,Mumbai,Maharashtra,Home Office
+88,Ananya Iyer,Female,Jaipur,Rajasthan,Consumer
+89,Arjun Kumar,Female,Vijayawada,Andhra Pradesh,Consumer
+90,Neha Verma,Female,Vijayawada,Andhra Pradesh,Home Office
+91,Ananya Mehta,Male,Delhi,Delhi,Corporate
+92,Sneha Singh,Male,Lucknow,Uttar Pradesh,Home Office
+93,Rahul Iyer,Male,Pune,Maharashtra,Corporate
+94,Priya Gupta,Female,Pune,Maharashtra,Home Office
+95,Pooja Singh,Female,Vijayawada,Andhra Pradesh,Home Office
+96,Salman Verma,Female,Pune,Maharashtra,Home Office
+97,Sneha Verma,Female,Chennai,Tamil Nadu,Home Office
+98,Neha Mehta,Female,Chennai,Tamil Nadu,Corporate
+99,Rahul Singh,Female,Jaipur,Rajasthan,Consumer
+100,Neha Mehta,Female,Pune,Maharashtra,Corporate

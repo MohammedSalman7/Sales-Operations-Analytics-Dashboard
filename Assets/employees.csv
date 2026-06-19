@@ -1,0 +1,21 @@
+employee_id,employee_name,department,designation,city,salary
+1,Ananya Gupta,IT,Analyst,Hyderabad,105645.51
+2,Neha Iyer,Sales,Associate,Chennai,83270.35
+3,Priya Verma,Marketing,Associate,Hyderabad,46355.61
+4,Ananya Gupta,Marketing,Associate,Mumbai,59416.12
+5,Arjun Verma,HR,Executive,Pune,72327.62
+6,Rahul Gupta,Marketing,Executive,Jaipur,100310.97
+7,Rahul Patel,Marketing,Executive,Hyderabad,85920.21
+8,Amit Nair,Sales,Analyst,Bangalore,71853.06
+9,Salman Kumar,Sales,Analyst,Mumbai,116824.87
+10,Neha Sharma,HR,Associate,Vijayawada,65698.9
+11,Priya Mehta,Marketing,Executive,Bangalore,92747.37
+12,Vikram Mehta,Sales,Executive,Mumbai,61248.34
+13,Vikram Gupta,Sales,Manager,Pune,31138.69
+14,Rohit Reddy,IT,Manager,Pune,87202.66
+15,Pooja Kumar,IT,Analyst,Kolkata,96041.58
+16,Neha Iyer,IT,Associate,Mumbai,69201.7
+17,Arjun Gupta,Marketing,Executive,Lucknow,55103.54
+18,Sneha Nair,IT,Manager,Kolkata,32583.0
+19,Amit Nair,Marketing,Manager,Delhi,101804.91
+20,Arjun Mehta,HR,Executive,Delhi,76496.45

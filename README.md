@@ -196,7 +196,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mohammed Salman**
 
 B.Tech CSE Student  
 Aspiring Data Analyst | Business Intelligence Enthusiast | Full Stack Developer
